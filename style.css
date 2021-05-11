@@ -1,0 +1,37 @@
+body {
+    background-color: aliceblue;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    color: lightslategray;
+    font-size: 1.4rem;
+}
+
+nav {
+    padding: 20px 40px;
+    background-color: lightblue;
+    color: white;
+    font-size: 1.5rem;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    font-size: 1.2rem
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : lightblue;
+    color: white;
+    font-size: 1rem;
+}
